@@ -16,6 +16,7 @@ Escrevo no LinkedIn sobre conceitos de ciência de dados que aparecem na prátic
 ## Em destaque
 
 - **[llm-numeros-fieis](https://github.com/gabrielborgs/llm-numeros-fieis)**: experimento medindo o que uma regra simples pega e o que deixa passar quando um LLM escreve sobre números. Dois modelos locais, 40 resumos cada, dados sintéticos.
+- **[Vazamento-Temporal](https://github.com/gabrielborgs/Vazamento-Temporal)**: quanto a divisão aleatória de treino e teste infla o resultado em previsão com séries temporais. Mesmo modelo, três divisões, dados sintéticos.
 
 ## Contato
 
